@@ -1,0 +1,6 @@
+owner=639556824793743374
+prefix=E
+game=Evan | Eplay
+stayinchannel=true
+songinstatus=false
+token=NjY3MTUwOTM4NjkxMjA3MTc4.Xh-i8A.FF8TKWVmN33MROFjz_H92Xe3kN8
